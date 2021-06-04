@@ -16,3 +16,7 @@
 This produces html file 
 
 At this moment, I paied no attention to the coloring of nodes.
+
+# Example
+
+https://yakomaxa.github.io/minus_kTlogP/post/msresources/test.html
