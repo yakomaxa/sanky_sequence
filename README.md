@@ -10,8 +10,9 @@
 * bio3d
 
 # Usage
-At this moment, I paied no attention to the coloring of nodes.
 
-```Rscript sanky_sequenec.R your.fasta```
+```Rscript sanky_sequence.R your.fasta```
 
 This produces html file 
+
+At this moment, I paied no attention to the coloring of nodes.
