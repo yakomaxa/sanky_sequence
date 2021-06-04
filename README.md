@@ -1,5 +1,7 @@
 # Sanky plot for amino-acid sequence (fasta)
 
+![Example plot](https://github.com/yakomaxa/sanky_sequence/blob/main/example.png "example")
+
 # requirements 
 
 * tibble
